@@ -1,0 +1,1 @@
+import{b5 as r,i as t,p as o,k as n,E as c}from"./JoFQSik9.js";const b=()=>{const e=r("breadcrumbs",()=>[]),a=t([]),s=u=>{a.value=u};return o(()=>a.value,()=>{e.value=a.value}),n(()=>{e.value=a.value}),c(()=>{e.value=[]}),{breadcrumbs:e,setBreadcrumbs:s}};export{b as u};

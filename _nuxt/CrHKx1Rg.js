@@ -1,0 +1,1 @@
+import{a2 as u,a1 as r,W as c,$ as i,p as h,Z as n}from"./JoFQSik9.js";const m=e=>{const o=u(),{isLoggedIn:s}=r(o),a=c(),t=i();h(()=>s.value,async()=>{s.value||(e?await t.push(a(e.redirectTo)):await t.push(a(n.main_home)))},{immediate:!0})};export{m as u};

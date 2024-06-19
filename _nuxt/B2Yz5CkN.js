@@ -1,0 +1,1 @@
+import{a6 as e,c as a,t as r,av as s,o as t}from"./JoFQSik9.js";const n={};function c(o,_){return t(),a("h1",null,"/sportbook/"+r((o._.provides[s]||o.$route).params.id),1)}const l=e(n,[["render",c]]);export{l as default};
