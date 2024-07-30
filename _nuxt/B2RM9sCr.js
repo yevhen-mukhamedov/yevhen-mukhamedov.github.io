@@ -1,1 +1,0 @@
-import{a6 as o,c as r,t as a,av as s,o as t}from"./JoFQSik9.js";const n={};function c(e,p){return t(),r("h1",null,"/sport/"+a((e._.provides[s]||e.$route).params.sportId),1)}const i=o(n,[["render",c]]);export{i as default};

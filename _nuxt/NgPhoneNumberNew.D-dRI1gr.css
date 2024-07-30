@@ -1,0 +1,1 @@
+:root{--dropdown-top:0px;--max-width:220px}#dropdown-phone{max-height:300px;max-width:var(--max-width)!important;top:var(--dropdown-top)!important;transform:translate(-8px);width:100%}

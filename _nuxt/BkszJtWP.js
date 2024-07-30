@@ -1,0 +1,1 @@
+import{d as e,u as o,o as c,c as t,_ as n}from"./7PQ9d4dP.js";const r={class:"custom-loader"},_=e({__name:"BallsJumping",props:{color:{type:String,default:"--brand-400"}},setup(s){return o(a=>({"215dca2a":s.color})),(a,l)=>(c(),t("div",r))}}),d=n(_,[["__scopeId","data-v-9c4c746b"]]);export{d as default};

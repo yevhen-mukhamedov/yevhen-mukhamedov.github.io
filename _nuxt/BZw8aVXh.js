@@ -1,1 +1,0 @@
-import{a0 as s,a1 as u,b6 as c,b7 as _}from"./JoFQSik9.js";const C=t=>{const n="nuxPoint",e="__CODE__",a=s(),{getCurrencyIconExceptions:r,getCurrencyIconPattern:o}=u(a);return t===n?c:r.value&&r.value[t]?r.value[t]:(o.value??"").replace(e,t)??_};export{C as g};

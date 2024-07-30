@@ -1,1 +1,0 @@
-const e=8388608,t=/\/(jpe?g|png)$/i,s={1:{name:"opened",titleKey:"opened_tic",status:1},2:{name:"in_progress",titleKey:"in_progress_tic",status:2},3:{name:"closed",titleKey:"closed_tic",status:3},4:{name:"expired",titleKey:"expired_tic",status:4}};export{e as A,t as I,s as T};

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>CA</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CA">
+            <rect id="Rectangle" fill="#E9E9E9" x="0" y="0" width="192" height="192" rx="5"></rect>
+            <g id="Group" transform="translate(7.000000, 22.000000)" fill-rule="nonzero">
+                <polygon id="Shape" fill="#0D6FAB" points="56.1463786 79.4089776 116.019486 79.4089776 157.050318 147.365527 97.1649388 147.365527"></polygon>
+                <path d="M62.3685019,68.9692284 L124.258379,68.9692284 L178.007542,1.30721731 L116.117665,1.30721731 L62.3685019,68.9692284 L62.3685019,68.9692284 Z M0.478624867,147.778699 L62.3685019,147.778699 L116.117665,79.2821625 L54.2277883,79.2821625 L0.478624867,147.778699 L0.478624867,147.778699 Z" id="Shape" fill="#DB8135"></path>
+                <polygon id="Shape" fill="#0D6FAB" points="22.7939979 0.48087352 80.5603376 0.48087352 120.134842 68.9692284 62.3685019 68.9692284"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

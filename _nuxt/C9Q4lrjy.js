@@ -1,1 +1,0 @@
-import{W as e,a0 as r,a1 as u,p as n,bs as h,Z as i}from"./JoFQSik9.js";const p=()=>{const a=e(),t=r(),{showCustomSupportChat:o}=u(t);n(()=>o.value,s=>{s&&h(a({path:i.main_home}))},{immediate:!0})};export{p as u};

@@ -1,0 +1,1 @@
+import{d as n,u as o,o as t,c as a,_ as c}from"./7PQ9d4dP.js";const r={class:"spinner"},_=n({__name:"Spinner",props:{color:{type:String,default:"--brand-400"}},setup(e){return o(s=>({"14e6b97a":e.color})),(s,p)=>(t(),a("div",r))}}),i=c(_,[["__scopeId","data-v-26e6c008"]]);export{i as default};

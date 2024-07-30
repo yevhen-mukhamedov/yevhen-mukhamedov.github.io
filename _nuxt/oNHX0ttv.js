@@ -1,0 +1,1 @@
+import{d as t,u as e,o as a,c,_ as r}from"./7PQ9d4dP.js";const n={class:"custom-loader"},_=t({__name:"Custom",props:{color:{type:String,default:"--brand-400"}},setup(o){return e(s=>({"8965bf5a":o.color})),(s,d)=>(a(),c("div",n))}}),u=r(_,[["__scopeId","data-v-44420a8c"]]);export{u as default};
